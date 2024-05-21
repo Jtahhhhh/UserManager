@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\learn\\project\\UserManager\\Be\\api\\RegistrationAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6379B09D-78B0-4083-9A2D-3A60D1493F59}|RegistrationAPI\\RegistrationAPI.csproj|c:\\users\\admin\\desktop\\learn\\project\\usermanager\\be\\api\\registrationapi\\registrationapi\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6379B09D-78B0-4083-9A2D-3A60D1493F59}|RegistrationAPI\\RegistrationAPI.csproj|solutionrelative:registrationapi\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6379B09D-78B0-4083-9A2D-3A60D1493F59}|RegistrationAPI\\RegistrationAPI.csproj|c:\\users\\admin\\desktop\\learn\\project\\usermanager\\be\\api\\registrationapi\\registrationapi\\models\\hashpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6379B09D-78B0-4083-9A2D-3A60D1493F59}|RegistrationAPI\\RegistrationAPI.csproj|solutionrelative:registrationapi\\models\\hashpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6379B09D-78B0-4083-9A2D-3A60D1493F59}|RegistrationAPI\\RegistrationAPI.csproj|c:\\users\\admin\\desktop\\learn\\project\\usermanager\\be\\api\\registrationapi\\registrationapi\\models\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6379B09D-78B0-4083-9A2D-3A60D1493F59}|RegistrationAPI\\RegistrationAPI.csproj|solutionrelative:registrationapi\\models\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6379B09D-78B0-4083-9A2D-3A60D1493F59}|RegistrationAPI\\RegistrationAPI.csproj|c:\\users\\admin\\desktop\\learn\\project\\usermanager\\be\\api\\registrationapi\\registrationapi\\models\\res.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6379B09D-78B0-4083-9A2D-3A60D1493F59}|RegistrationAPI\\RegistrationAPI.csproj|solutionrelative:registrationapi\\models\\res.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6379B09D-78B0-4083-9A2D-3A60D1493F59}|RegistrationAPI\\RegistrationAPI.csproj|c:\\users\\admin\\desktop\\learn\\project\\usermanager\\be\\api\\registrationapi\\registrationapi\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6379B09D-78B0-4083-9A2D-3A60D1493F59}|RegistrationAPI\\RegistrationAPI.csproj|solutionrelative:registrationapi\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6379B09D-78B0-4083-9A2D-3A60D1493F59}|RegistrationAPI\\RegistrationAPI.csproj|c:\\users\\admin\\desktop\\learn\\project\\usermanager\\be\\api\\registrationapi\\registrationapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6379B09D-78B0-4083-9A2D-3A60D1493F59}|RegistrationAPI\\RegistrationAPI.csproj|solutionrelative:registrationapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6379B09D-78B0-4083-9A2D-3A60D1493F59}|RegistrationAPI\\RegistrationAPI.csproj|c:\\users\\admin\\desktop\\learn\\project\\usermanager\\be\\api\\registrationapi\\registrationapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6379B09D-78B0-4083-9A2D-3A60D1493F59}|RegistrationAPI\\RegistrationAPI.csproj|solutionrelative:registrationapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Interface.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\learn\\project\\UserManager\\Be\\api\\RegistrationAPI\\RegistrationAPI\\Models\\Interface.cs",
+              "RelativeDocumentMoniker": "RegistrationAPI\\Models\\Interface.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\learn\\project\\UserManager\\Be\\api\\RegistrationAPI\\RegistrationAPI\\Models\\Interface.cs",
+              "RelativeToolTip": "RegistrationAPI\\Models\\Interface.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T07:02:37.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HashPassword.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\learn\\project\\UserManager\\Be\\api\\RegistrationAPI\\RegistrationAPI\\Models\\HashPassword.cs",
+              "RelativeDocumentMoniker": "RegistrationAPI\\Models\\HashPassword.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\learn\\project\\UserManager\\Be\\api\\RegistrationAPI\\RegistrationAPI\\Models\\HashPassword.cs",
+              "RelativeToolTip": "RegistrationAPI\\Models\\HashPassword.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T07:05:25.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\learn\\project\\UserManager\\Be\\api\\RegistrationAPI\\RegistrationAPI\\Program.cs",
+              "RelativeDocumentMoniker": "RegistrationAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\learn\\project\\UserManager\\Be\\api\\RegistrationAPI\\RegistrationAPI\\Program.cs",
+              "RelativeToolTip": "RegistrationAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T14:38:12.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\learn\\project\\UserManager\\Be\\api\\RegistrationAPI\\RegistrationAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "RegistrationAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\learn\\project\\UserManager\\Be\\api\\RegistrationAPI\\RegistrationAPI\\appsettings.json",
+              "RelativeToolTip": "RegistrationAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-18T14:29:58.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegistrationController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\learn\\project\\UserManager\\Be\\api\\RegistrationAPI\\RegistrationAPI\\Controllers\\RegistrationController.cs",
+              "RelativeDocumentMoniker": "RegistrationAPI\\Controllers\\RegistrationController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\learn\\project\\UserManager\\Be\\api\\RegistrationAPI\\RegistrationAPI\\Controllers\\RegistrationController.cs",
+              "RelativeToolTip": "RegistrationAPI\\Controllers\\RegistrationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAUwC0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T14:29:50.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Res.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\learn\\project\\UserManager\\Be\\api\\RegistrationAPI\\RegistrationAPI\\Models\\Res.cs",
+              "RelativeDocumentMoniker": "RegistrationAPI\\Models\\Res.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\learn\\project\\UserManager\\Be\\api\\RegistrationAPI\\RegistrationAPI\\Models\\Res.cs",
+              "RelativeToolTip": "RegistrationAPI\\Models\\Res.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T14:28:23.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\learn\\project\\UserManager\\Be\\api\\RegistrationAPI\\RegistrationAPI\\Models\\Register.cs",
+              "RelativeDocumentMoniker": "RegistrationAPI\\Models\\Register.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\learn\\project\\UserManager\\Be\\api\\RegistrationAPI\\RegistrationAPI\\Models\\Register.cs",
+              "RelativeToolTip": "RegistrationAPI\\Models\\Register.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T14:23:57.822Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xBPFjkJcT7ZJ0tlfViPbMKuF/Ez4+NwfMErnvJgn1vw=",
+  "Source": "GetUser",
+  "BasePath": "_content/GetUser",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

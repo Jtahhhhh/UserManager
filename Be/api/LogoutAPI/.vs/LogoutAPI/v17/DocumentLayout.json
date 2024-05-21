@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\learn\\project\\UserManager\\Be\\api\\LogoutAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC52DC2-A822-4503-A7D4-A91F20DBD5CE}|LogoutAPI\\LogoutAPI.csproj|c:\\users\\admin\\desktop\\learn\\project\\usermanager\\be\\api\\logoutapi\\logoutapi\\controllers\\logoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CC52DC2-A822-4503-A7D4-A91F20DBD5CE}|LogoutAPI\\LogoutAPI.csproj|solutionrelative:logoutapi\\controllers\\logoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC52DC2-A822-4503-A7D4-A91F20DBD5CE}|LogoutAPI\\LogoutAPI.csproj|c:\\users\\admin\\desktop\\learn\\project\\usermanager\\be\\api\\logoutapi\\logoutapi\\model\\res.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CC52DC2-A822-4503-A7D4-A91F20DBD5CE}|LogoutAPI\\LogoutAPI.csproj|solutionrelative:logoutapi\\model\\res.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC52DC2-A822-4503-A7D4-A91F20DBD5CE}|LogoutAPI\\LogoutAPI.csproj|c:\\users\\admin\\desktop\\learn\\project\\usermanager\\be\\api\\logoutapi\\logoutapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1CC52DC2-A822-4503-A7D4-A91F20DBD5CE}|LogoutAPI\\LogoutAPI.csproj|solutionrelative:logoutapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC52DC2-A822-4503-A7D4-A91F20DBD5CE}|LogoutAPI\\LogoutAPI.csproj|c:\\users\\admin\\desktop\\learn\\project\\usermanager\\be\\api\\logoutapi\\logoutapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CC52DC2-A822-4503-A7D4-A91F20DBD5CE}|LogoutAPI\\LogoutAPI.csproj|solutionrelative:logoutapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\learn\\project\\UserManager\\Be\\api\\LogoutAPI\\LogoutAPI\\Program.cs",
+              "RelativeDocumentMoniker": "LogoutAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\learn\\project\\UserManager\\Be\\api\\LogoutAPI\\LogoutAPI\\Program.cs",
+              "RelativeToolTip": "LogoutAPI\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T16:45:18.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\learn\\project\\UserManager\\Be\\api\\LogoutAPI\\LogoutAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "LogoutAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\learn\\project\\UserManager\\Be\\api\\LogoutAPI\\LogoutAPI\\appsettings.json",
+              "RelativeToolTip": "LogoutAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-20T16:15:00.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LogoutController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\learn\\project\\UserManager\\Be\\api\\LogoutAPI\\LogoutAPI\\Controllers\\LogoutController.cs",
+              "RelativeDocumentMoniker": "LogoutAPI\\Controllers\\LogoutController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\learn\\project\\UserManager\\Be\\api\\LogoutAPI\\LogoutAPI\\Controllers\\LogoutController.cs",
+              "RelativeToolTip": "LogoutAPI\\Controllers\\LogoutController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAuwDIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T16:00:28.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Res.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\learn\\project\\UserManager\\Be\\api\\LogoutAPI\\LogoutAPI\\Model\\Res.cs",
+              "RelativeDocumentMoniker": "LogoutAPI\\Model\\Res.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\learn\\project\\UserManager\\Be\\api\\LogoutAPI\\LogoutAPI\\Model\\Res.cs",
+              "RelativeToolTip": "LogoutAPI\\Model\\Res.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T15:59:22.86Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

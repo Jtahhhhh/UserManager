@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\GetUser",
+    "\\GetUser\\GetUser",
+    "\\GetUser\\GetUser\\Controllers"
+  ],
+  "SelectedNode": "\\GetUser\\GetUser\\Controllers\\GetUserController.cs",
+  "PreviewInSolutionExplorer": false
+}
